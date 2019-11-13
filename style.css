@@ -1,0 +1,7 @@
+#password-generata {
+    display: none;
+}
+
+#password-generata.visibile {
+    display: inline-block;
+}
